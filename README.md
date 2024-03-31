@@ -22,9 +22,9 @@ Each being a **_"tiff stack file"_** having 1600 slices and dimension being _128
 ![images_0](https://github.com/arpsn123/Mitocondria-Segmentation/assets/112195431/26ed1f4b-a73f-4135-8f7b-24042b9a60fe)
 ![masks](https://github.com/arpsn123/Mitocondria-Segmentation/assets/112195431/c0d406cf-0bcb-4bb6-a7d6-6fa6dd16ee50)
 
-Imgaes used for Training the model : 90% --> 1,440 images.
+Imgaes used for Training the model : 90% --> 1,440 images
 
-Imgaes used for Testing the model: 10% --> 160 images.
+Imgaes used for Testing the model: 10% --> 160 images
 
 ### Model
 Here, the [segmentation_models](https://github.com/qubvel/segmentation_models.git) library in Python, used extensively this for **_2D image segmentation task_**. This module offers a streamlined approach to implementing the _Pretrained Machine Learning Models_, with the **UNet model enhanced by ResNet** serving as its backbone.
