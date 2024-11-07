@@ -1,12 +1,16 @@
 # UNet with ResNet Backbone: A Dynamic Fusion for Semantic Segmentation
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.7.0-orange.svg)
-![Keras](https://img.shields.io/badge/Keras-2.7.0-green.svg)
-![NumPy](https://img.shields.io/badge/NumPy-1.21.0-red.svg)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.5.3-yellow.svg)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-purple.svg)
-![segmentation_models](https://img.shields.io/badge/Segmentation%20Models-0.2.1-lightblue.svg)
+![GitHub Repo Stars](https://img.shields.io/github/stars/arpsn123/Multiclass_Segmentation_using_by_UNET_with_RESNET_as_Backbone?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/arpsn123/Multiclass_Segmentation_using_by_UNET_with_RESNET_as_Backbone?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/arpsn123/Multiclass_Segmentation_using_by_UNET_with_RESNET_as_Backbone)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/arpsn123/Multiclass_Segmentation_using_by_UNET_with_RESNET_as_Backbone)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/arpsn123/Multiclass_Segmentation_using_by_UNET_with_RESNET_as_Backbone)
+![GitHub Contributors](https://img.shields.io/github/contributors/arpsn123/Multiclass_Segmentation_using_by_UNET_with_RESNET_as_Backbone)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/arpsn123/Multiclass_Segmentation_using_by_UNET_with_RESNET_as_Backbone)
+![GitHub Language Count](https://img.shields.io/github/languages/count/arpsn123/Multiclass_Segmentation_using_by_UNET_with_RESNET_as_Backbone)
+![GitHub Top Language](https://img.shields.io/github/languages/top/arpsn123/Multiclass_Segmentation_using_by_UNET_with_RESNET_as_Backbone)
+![GitHub Watchers](https://img.shields.io/github/watchers/arpsn123/Multiclass_Segmentation_using_by_UNET_with_RESNET_as_Backbone?style=social)
+![Maintenance Status](https://img.shields.io/badge/Maintenance-%20Active-green)
 
 ## Overview
 
@@ -42,6 +46,16 @@ Each of these files is a **"tiff stack file"** comprising 1600 slices with dimen
 
 - **Images used for Training the model**: 90% (1,440 images)
 - **Images used for Testing the model**: 10% (160 images)
+
+### Tech Stack 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.7.0-orange.svg)
+![Keras](https://img.shields.io/badge/Keras-2.7.0-green.svg)
+![NumPy](https://img.shields.io/badge/NumPy-1.21.0-red.svg)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.5.3-yellow.svg)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-purple.svg)
+![segmentation_models](https://img.shields.io/badge/Segmentation%20Models-0.2.1-lightblue.svg)
+
 
 ### Data Preprocessing
 
